@@ -1,0 +1,5 @@
+Elaborar um programa que leia três valores para os lados de um triângulo, considerando lados como A, B e C.
+
+Verificar se os lados fornecidos formam um triângulo, 
+e se for esta condição verdadeira, deve ser indicado o tipo de triângulo formado: isósceles,escaleno ou equilátero.
+
